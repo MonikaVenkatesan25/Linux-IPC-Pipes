@@ -104,7 +104,7 @@ void client(int wfd, int rfd) {
 
 ## OUTPUT
 
-![image]](<image folder/Screenshot at 2026-05-15 07-30-54.png>)
+![image](<image folder/Screenshot at 2026-05-15 07-30-54.png>)
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
 
